@@ -298,5 +298,6 @@
   <terminal color="1" depth="16777216" height="656" model="F07F" width="480" />
   <terminal color="1" depth="16777216" height="650" model="N01F" width="480" />
   <terminal color="1" depth="262144" height="650" model="P01F" width="480" />
+  <terminal color="1" depth="16777216" height="656" model="SH07F" width="480" />
 </opt>
 
